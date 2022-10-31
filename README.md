@@ -20,9 +20,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanifrancs&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## ✏️ ✒️ Check Out My Amazing Blog
+## ✒️ Check Out My Amazing Blog
 [![image](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://franciscobaze.hashnode.dev/)
 
-## ☄ Connect With Me!
+## 💙 Connect With Me!
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-faniku-946a22243/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fanifrancs)
