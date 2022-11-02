@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning backend development
 - 💞️ I’m looking to collaborate on projects that will solve real world problems and enhance my coding skills
 - 📫 How to reach me: fanikufran6@gmail.com
-- ⚡ Fun fact: 💥
 
 ## ⚒ My Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
