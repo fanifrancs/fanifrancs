@@ -20,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanifrancs&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📝 Check Out My Amazing Blog
+## 📝 My Amazing Blog
 [![image](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://franciscobaze.hashnode.dev/)
 
 ## 💙 Connect With Me!
