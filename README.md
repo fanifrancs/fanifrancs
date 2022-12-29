@@ -1,6 +1,6 @@
 ## 👋 Hello World
 - 👀 I’m interested in tech, innovation, and video games
-- 🌱 I’m currently learning backend development
+- 🌱 I’m currently learning back-end development
 - 💞️ I’m looking to collaborate on projects that will solve real world problems and enhance my coding skills
 - 📫 How to reach me: fanikufran6@gmail.com
 
