@@ -1,8 +1,8 @@
 ## 👋 Hello World
-- I'm a back-end Engineer
-- 👀 I’m interested in tech, innovation, and video games
+- 👨‍💻 I'm learning back-end engineering
 - 🌱 I’m currently learning NodeJS
-- 💞️ I’m looking to collaborate on projects that will solve real world problems and enhance my coding skills
+- 👀 I’m interested in tech, innovation, and video games
+- 💞️ I’m looking to collaborate on projects that will solve real world problems and enhance my programming skills
 - 📫 How to reach me: fanikufran6@gmail.com
 
 ## ⚒ My Stack
@@ -20,7 +20,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanifrancs&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📝 Read and catch up on my blog's posts
+## 📝 Checkout my Blog
 [![image](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://franciscobaze.hashnode.dev/)
 
 ## 💙 Connect With Me!
