@@ -1,5 +1,5 @@
 ## 👋 Hello World
-- 👨‍💻 I'm a Back-End Engineer
+- 👨‍💻 I'm a Back-end Engineer
 - 🌱 I’m currently learning NodeJS
 - 👀 I’m interested in tech, innovation, and video games
 - 💞️ I’m looking to collaborate on projects that will solve real world problems and enhance my programming skills
