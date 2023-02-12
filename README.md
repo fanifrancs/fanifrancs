@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NodeJS
 - 👀 I’m interested in tech, innovation, and video games
 - 💞️ I’m looking to collaborate on projects that will solve real world problems and enhance my programming skills
-- 📫 How to reach me: fanikufran6@gmail.com or [click here](https://twitter.com/fanifrancs)
+- 📫 How to reach me: [Mail](fanikufran6@gmail.com) or [Twitter](https://twitter.com/fanifrancs)
 
 ## ⚒ My Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -18,9 +18,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanifrancs&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 📝 Checkout my Blog
-[![image](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://franciscobaze.hashnode.dev/)
+## 🎬 Learn
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@fanifrancs)
 
-## 💙 Connect With Me!
+## 💙 Let's Connect!
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/francis-faniku-946a22243/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/fanifrancs)
