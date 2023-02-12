@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning NodeJS
 - 👀 I’m interested in tech, innovation, and video games
 - 💞️ I’m looking to collaborate on projects that will solve real world problems and enhance my programming skills
-- 📫 How to reach me: [Mail](fanikufran6@gmail.com) or [Twitter](https://twitter.com/fanifrancs)
+- 📫 How to reach me: [Mail](mailto:fanikufran6@gmail.com) or [Twitter](https://twitter.com/fanifrancs)
 
 ## ⚒ My Stack
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
