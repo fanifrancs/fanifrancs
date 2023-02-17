@@ -1,6 +1,6 @@
 ## 👋 Hello World
 - 👨‍💻 I'm a Back-end Engineer
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning Django
 - 👀 I’m interested in tech, innovation, and video games
 - 💞️ I’m looking to collaborate on projects that will solve real world problems and enhance my programming skills
 - 📫 How to reach me: [Mail](mailto:fanikufran6@gmail.com) or [Twitter](https://twitter.com/fanifrancs)
@@ -18,7 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanifrancs&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## 🎬 Learn
+## 🎬 Interesting Videos
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@fanifrancs)
 
 ## 💙 Let's Connect!
