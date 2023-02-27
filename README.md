@@ -21,6 +21,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanifrancs&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+## My Resume
+<a id="raw-url" href="https://raw.githubusercontent.com/fanifrancs/fanifrancs/master/Francis-Faniku.pdf">Download FILE</a>
+
 ## 🎬 Interesting Videos
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@fanifrancs)
 
