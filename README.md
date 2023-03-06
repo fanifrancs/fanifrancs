@@ -1,5 +1,5 @@
 ## 👋 Hello World
-I am a highly motivated and passionate Back-end Engineer with a strong focus on web development. I am deeply committed to building scalable web components and applications. I love coding using JavaScript. I enjoy sharing my knowledge and experience and I am confident in my ability to make a positive impact in the field of technology.
+I am a highly motivated and passionate Backend Engineer with a strong focus on web development. I am deeply committed to building scalable web components and applications. I love coding using JavaScript. I enjoy sharing my knowledge and experience and I am confident in my ability to make a positive impact in the field of technology.
 - 🌱 I’m currently learning Django
 - 👀 I’m interested in tech, innovation, and video games
 - 💞️ I’m looking to collaborate on projects that will solve real world problems and enhance my programming skills
