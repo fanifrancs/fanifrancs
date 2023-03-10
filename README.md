@@ -1,6 +1,6 @@
 ## 👋 Hello World
 I am a highly motivated and passionate Backend Engineer with a strong focus on web development. I am deeply committed to building scalable web components and applications. I love coding using JavaScript. I enjoy sharing my knowledge and experience and I am confident in my ability to make a positive impact in the field of technology.
-- 🌱 I’m currently learning Django
+- 🌱 I’m currently learning Flask
 - 👀 I’m interested in tech, innovation, and video games
 - 💞️ I’m looking to collaborate on projects that will solve real world problems and enhance my programming skills
 - 📫 How to reach me: [Mail](mailto:fanikufran6@gmail.com) or [Twitter](https://twitter.com/fanifrancs)
@@ -15,7 +15,7 @@ I am a highly motivated and passionate Backend Engineer with a strong focus on w
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
 
