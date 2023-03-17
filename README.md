@@ -22,4 +22,4 @@ I am a highly motivated and passionate Backend Engineer with a strong focus on w
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanifrancs&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 💼 My Resume
-<a id="raw-url" href="https://raw.githubusercontent.com/fanifrancs/fanifrancs/master/Francis-Faniku.pdf">Download FILE</a>
+<a id="raw-url" href="https://raw.githubusercontent.com/fanifrancs/fanifrancs/master/Francis-Faniku.pdf">Click here</a> to download and view
