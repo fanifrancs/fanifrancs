@@ -1,6 +1,6 @@
 ## 👋 Hello World
 I am a backend engineer, and I'm deeply committed to building scalable web components and applications. I love coding using JavaScript. I enjoy sharing my knowledge and experience and I am confident in my ability to make a positive impact in the field of technology.
-- 🌱 I’m currently learning Node.js
+- 🌱 I’m currently learning React.js
 - 👀 I’m interested in tech, innovation, and video games
 - 💞️ I’m looking to collaborate on projects that will solve real world problems and enhance my programming skills
 - 📫 How to reach me: [Mail](mailto:fanikufran6@gmail.com), [Twitter](https://twitter.com/fanifrancs), [Instagram](https://instagram.com/fanifrancs)
@@ -15,9 +15,6 @@ I am a backend engineer, and I'm deeply committed to building scalable web compo
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanifrancs&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
