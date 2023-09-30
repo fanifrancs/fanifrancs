@@ -1,8 +1,11 @@
 ## 👋 Hello World
-I am a backend engineer, and I'm deeply committed to building scalable web components and applications. I love coding using JavaScript. I enjoy sharing my knowledge and experience and I am confident in my ability to make a positive impact in the field of technology.
+- I love coding using JavaScript.
 - 🌱 I’m currently learning : )
-- 👀 I’m interested in tech, innovation, and video games
+- I enjoy sharing my knowledge and experience.
 - 💞️ I’m looking to collaborate on projects that will solve real world problems and enhance my programming skills
+- My contents predominantly revolve around tech and programming.
+- I'm confident that I can make a positive impact in the field of technology.
+- I'm deeply interested in tech, innovation, and video games.
 - 📫 How to reach me: [Mail](mailto:fanikufran6@gmail.com), [Instagram](https://instagram.com/fanifrancs), [X](https://twitter.com/fanifrancs)
 
 ## ⚒ My Stack
