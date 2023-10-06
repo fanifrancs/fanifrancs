@@ -2,8 +2,8 @@
 - I love coding using JavaScript.
 - 🌱 I’m currently learning : )
 - I enjoy sharing my knowledge and experience.
-- 💞️ I’m looking to collaborate on projects that will solve real world problems and enhance my programming skills
-- My content predominantly revolves around tech and programming.
+- My content predominantly revolves around my interests.
+- 💞️ I’m looking to collaborate on projects that will solve real-world problems and enhance my programming skills
 - I'm confident that I can make a positive impact in the field of technology.
 - I'm deeply interested in tech, innovation, and video games.
 - 📫 How to reach me: [Mail](mailto:fanikufran6@gmail.com), [Instagram](https://instagram.com/fanifrancs), [X](https://twitter.com/fanifrancs)
