@@ -2,8 +2,7 @@
 - I love coding using JavaScript.
 - 🌱 I’m currently learning : )
 - I like sharing my knowledge and experience.
-- I create tech content on [Instagram](https://instagram.com/fanifrancs).
-- My content predominantly revolves around my interests.
+- I create insightful content on [Instagram](https://instagram.com/fanifrancs).
 - I'm deeply interested in tech, innovation, and video games.
 - 💞️ I’m looking to collaborate on projects that will solve real-world problems and enhance my programming skills.
 - I'm confident that I can make a positive impact in the field of technology.
