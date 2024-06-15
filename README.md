@@ -1,9 +1,5 @@
 ## 👋 Hello World
-- I love coding using JavaScript.
-- I create insightful content on [Instagram](https://instagram.com/fanifrancs).
-- I'm deeply interested in tech, innovation, and video games.
-- 💞️ I’m looking to collaborate on projects that will solve real-world problems and enhance my programming skills.
-- 📫 How to reach me: [Mail](mailto:fanikufran6@gmail.com), [Instagram](https://instagram.com/fanifrancs), [X](https://twitter.com/fanifrancs)
+I love coding with JavaScript, creating insightful content on [Instagram](https://instagram.com/fanifrancs) and have a deep interest in tech, innovation and video games. I'm looking to collaborate on projects that solve real-world problems and enhance my programming skills. You can reach me via [Mail](mailto:fanikufran6@gmail.com) or [Instagram](https://instagram.com/fanifrancs).
 
 ## ⚒ Top Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
