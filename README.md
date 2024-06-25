@@ -1,5 +1,5 @@
 ## 👋 Hello World
-I love to write code in JavaScript and am deeply interested in tech, innovation and video games. I would love to collaborate on projects that solve real-world problems and enhance my programming skills. You can reach me via [mail](mailto:fanikufran6@gmail.com) or [instagram](https://instagram.com/fanifrancs). Explore valuable insights [here](https://instagram.com/fanifrancs).
+I love to write code in JavaScript and am deeply interested in technology, innovation and video games. I am eager to collaborate on projects that address real-world challenges and help me improve my programming skills. You can reach me via [mail](mailto:fanikufran6@gmail.com) or [instagram](https://instagram.com/fanifrancs). Explore valuable insights [here](https://instagram.com/fanifrancs).
 
 ## ⚒ Top Technologies
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
