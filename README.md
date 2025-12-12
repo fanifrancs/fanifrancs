@@ -1,4 +1,4 @@
 ## 👋 Hello World
-I’m passionate about programming and I'm strongly interested in blockchain technology and backend development. Open to collaborating on projects that solve real-world problems and sharpen my skills. Contact me [here](mailto:fanikufran6@gmail.com).
+My interests lie in backend development and the evolving world of blockchain technology. If you’re working on something real-world and skill-sharpening, I’m open to collaborating. You can reach me [here](mailto:fanikufran6@gmail.com).
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fanifrancs&langs_count=6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
